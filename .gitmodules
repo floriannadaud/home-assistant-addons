@@ -1,0 +1,3 @@
+[submodule "addon-adguard-home"]
+	path = addon-adguard-home
+	url = https://github.com/floriannadaud/addon-adguard-home
